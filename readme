@@ -1,0 +1,157 @@
+E-Portfolio 5: Automated Decision Making in Government
+Student name: Subash Oli
+Student ID: 12318789
+Workshop:Automated Decision Making in Government Systems
+Lecturer:Umpathy Venugopal
+Campus:Sydney
+
+Introduction | What is ADM and why it matters
+
+Automated Decision Making (ADM) is the use of computer systems to make or 
+assist in making decisions. There are systems that employ fixed rules and 
+there are systems using machine learning. Government ADM is capable of 
+handling a high volume of cases in a regular, rapid manner. However, 
+choices regarding benefits, immigration and services and eligibility have
+an impact on people's rights and wellbeing. As an emerging ICT professional,
+I must consider accuracy, bias, privacy, explanation, and human review and
+challenge a decision. The Australian experience of Robodebt underscores the 
+importance of the legal authority and accountability. To contrast Australia's
+reforms at the moment with other alternatives, and to state how my understanding has evolved.
+
+Artefact 1  Australia: automated decision-making reform consultation (2024–2025)
+ Summary. This consultation by the Australian Government sought input from the
+public between November 2024 and January 2025 on safeguards for automated
+decision making by government. It was tied to the recommendations made by th
+e Robodebt Royal Commission. The feedback summary published states that a group 
+of community organisations, legal groups, government bodies, and others were
+involved in the reform discussion. The challenge is how can government do this
+without compromising transparency, fairness or review opportunities?
+
+ Justification and reflection. I chose this artefact because I believe that
+the issue of ADM is not just a programming problem; it's also a law-related 
+issue, and a public participation issue. It relates to Kantianism as people 
+shouldn't be treated as block data without being explained or having a review 
+path. I discovered that involving communities in the pre-development process
+of automated systems can uncover risks which developers may overlook. This is 
+of course meaningful evidence of my evolving education in the field of responsible
+governments technology.
+
+Artefact 2 – Australia: privacy regulator’s submission (2025)
+ Summary. The OAIC provided its feedback on the consultation
+in January 2025 regarding the national ADM. The feedback includes broad
+coverage of the automated systems, pro-active information sharing, 
+meaningful explanations and protections throughout the life cycle 
+of the system. Privacy, access to information, contracted service 
+providers and accountability are all covered. This is vital for 
+  two reasons. Firstly, individuals may not be aware that the 
+computer-generated recommendations have had an effect on the government
+decision.
+
+Support and evaluation. I selected this source as it mentions the 
+relationship between privacy and procedural fairness. It helped me
+realize that the ‘a computer was used' statement is not sufficient. 
+They need to be provided with reasons that are easy to follow, 
+understandable, and acceptable to them. This is related to the ACS
+Code statement of public interest, honesty and professional competence.
+Now, as an ICT student, I would ask if an important decision is made,
+is it recorded in a system, and if people can get clear explanations, 
+can they get explanations that do not expose other people's private data?
+
+Artefact 3 – Australia: AI assurance framework (2024)
+
+ Summary. The framework for the national assurance of artificial
+intelligence in government in Australia has been launched in June 2024.
+It provides guidance on common assurance approaches and techniques 
+aimed at assisting governments in implementing the AI ethical guidelines. 
+It is applicable to ADM where artificial intelligence is applied to 
+categorize, forecast or suggest a certain result.
+
+ Justification and reflection. The inclusion of this artefact is justified 
+by its capacity to operationalise ethical concepts in the context of project 
+teams. Such questions are for instance what will happen in terms of quality 
+control of data, how a high risk system will be approved, and how will
+performance be managed after implementation? Act Utilitarianism is applicable 
+in this context as risks and gains should be assessed before the effects on
+people. I have found out that ethical work with ICT does not end with the 
+launch of a product.
+
+Artefact 4 – Australia: human rights safeguards for ADM (2025)
+
+ Summary. The Australian Human Rights Commission Submission 2025 suggests 
+that ADM by the government must respect human rights. Its recommendations 
+include impact assessments of human rights, informing individuals when there
+is any substantial impact on their lives through ADM, and providing rational
+explanations for its decisions. The submission highlights the risks of automation 
+reproducing disadvantage due to poor design or management of the system.
+
+Reason for selection and reflection. I chose this artifact since it provides 
+a human perspective on technology. It was evident from my reflection that mere 
+accuracy will not determine the dignity of humanity in a decision-making process. 
+The Kantian theory offers insight into why a person deserves an opportunity to 
+know about and question an adverse decision made against him or her. This artifact
+has influenced my perception of professional achievement since a successful system
+is one that is quick and accessible to the users.
+
+Artefact 5 – United Kingdom: algorithmic transparency standard (2025)
+
+ Summary. The UK published revised guidance on the Algorithmic Transparency
+Recording Standard in May 2025. This standard allows public bodies to publish
+details about the algorithmic technologies they employ, why they employ them,
+and their role in decision-making. These details include both a summary meant 
+for the public and technical information. There is also an identification of 
+those organizations and tools for which there are obligations to publish.
+
+Justification and Reflection. I have selected this example from 
+the international perspective because it offers a tangible transparency mechanism
+that Australia could adopt. This is an example which demonstrates that transparency
+could be managed via routine public documents instead of being based on abstract
+assurances. I came to realize that clear explanations of the purpose, responsibility
+and constraints could enable the citizens to analyze the system. This point is
+related to the ACS principle of honesty. Nevertheless, publication of the document 
+is just one element.
+
+Artefact 6 – Canada: Directive on Automated Decision-Making (2025 update)
+
+Summary. The Canadian Directive on Automated Decision-Making was revised in
+June 2025. The mentioned directive governs the application of automated 
+decision-making tools in the process of making or supporting decisions 
+pertaining to administrative purposes within federal organizations. These 
+measures include algorithmic impact assessment, reporting the results of
+the assessments, and introducing appropriate controls depending on the risk level.
+
+Justification and Reflection. I selected Canada because it can be used for 
+  comparisons to Australian reforms. The assessment system in Canada demonstrates
+how an organization can anticipate risk in advance and update impact assessment
+if the system under consideration undergoes changes. I have found out that the
+amount of attention needs to correspond to the potential effects on humans. 
+In terms of the theory, Act Utilitarianism is a good tool for assessing 
+potential danger, whereas Kantianism warns about the loss of fundamental
+human rights in cost-benefit analysis.
+
+Overall reflection and comparison
+In analyzing these six artifacts, I have realized that ADM is wider
+than AI and that government decisions require more than accuracy. In Australia, 
+there are plans to implement transparency, review, and human rights protection; 
+in the UK, there is a publicly recorded approach to algorithms; in Canada, risk 
+assessment is required in relation to the systems that fall under the policy.
+All of these methods are different, but all demonstrate that in order to ensure
+accountability, there must be procedures in place, not just goodwill.
+
+ Reference list (CQU Harvard draft)
+Attorney-General’s Department 2025, Automated Decision-Making Reform, 
+Australian Government, viewed 14 October 2026, https://consultations.ag.gov.au/integrity/adm/
+Australian Human Rights Commission 2025, Use of automated decision
+making by government, Australian Human Rights Commission, viewed 14 October 2026, 
+https://humanrights.gov.au/resource-hub/by-resource-type/submissions/use-of-automated
+-decision-making-by-government
+Department of Finance 2024, National framework for the assurance of artificial
+intelligence in government, Australian Government, viewed 14 October 2026, 
+https://www.finance.gov.au/government/public-data/data-and-digital-ministers-
+meeting/national-framework-assurance-artificial-intelligence-government
+Government Digital Service 2025, Algorithmic Transparency Recording Standard – 
+guidance for public sector bodies, GOV.UK, viewed 14 October 2026, 
+https://www.gov.uk/government/publications/guidance-for-organisations
+-using-the-algorithmic-transparency-recording-standard/algorithmic-
+transparency-recording-standard-guidance-for-public-sector-bodies
+
+
